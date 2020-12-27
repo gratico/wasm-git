@@ -1,5 +1,5 @@
 {
-    "name": "wasm-git",
+    "name": "@gratico/wasm-git",
     "version": "0.0.4",
     "author": {
         "name": "Peter Salomonsen",
